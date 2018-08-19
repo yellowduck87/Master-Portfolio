@@ -1,0 +1,19 @@
+{
+  "name": "master-portfolio",
+  "version": "1.0.0",
+  "description": "My current working portoflio of all current and past projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowduck87/Master-Portfollio.git"
+  },
+  "author": "Megan Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowduck87/Master-Portfollio/issues"
+  },
+  "homepage": "https://github.com/yellowduck87/Master-Portfollio#readme"
+}
